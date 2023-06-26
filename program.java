@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class program {
-    public static void main(String[] args, SetImitation setImitation2){
+    public static void main(String[] args){
       var setImitation = new SetImitation();
         System.out.println(setImitation.add(9));
         System.out.println(setImitation.add(9));
